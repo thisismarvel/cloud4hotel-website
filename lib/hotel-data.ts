@@ -3,7 +3,7 @@ export const hotel = {
   shortName: 'Cloud Four',
   address: '54 Makinde Street, Mafoluku Oshodi, Lagos 102214, Lagos, Nigeria',
   phones: ['+234 911 915 8748', '+234 923 397 5383'],
-  email: '[EMAIL ADDRESS — EDITABLE]',
+  email: 'support@cloudfourhotelandlounge.com',
   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cloud4-zoxoMm4e5mU35xnQCROERiXdQ9MmnT.jpg',
   domain: 'https://cloudfourhotelandlounge.com',
 }
