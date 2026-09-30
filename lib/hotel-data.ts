@@ -43,4 +43,4 @@ export const socials = [
 ]
 
 export const phoneHref = (phone: string) => `tel:${phone.replace(/\D/g, '')}`
-export const reserveHref = '#reservation'
+export const reserveHref = '/rooms'
